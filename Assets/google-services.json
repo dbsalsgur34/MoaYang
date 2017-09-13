@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "236017498053",
+    "firebase_url": "https://test-21ff1.firebaseio.com",
+    "project_id": "test-21ff1",
+    "storage_bucket": "test-21ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236017498053:android:8449352ceb474d5d",
+        "android_client_info": {
+          "package_name": "com.UnDev.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236017498053-i807s0emur548br025rfdpnmt2apqhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVupIVAwwHsui4HLdLnsLMLw8reKv0A7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236017498053:android:e01d5402ef0d8d31",
+        "android_client_info": {
+          "package_name": "com.ZweiHander.MoaYang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236017498053-i807s0emur548br025rfdpnmt2apqhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVupIVAwwHsui4HLdLnsLMLw8reKv0A7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
